@@ -1,8 +1,8 @@
 [submodule "WebApp"]
-	path = WebApp
+	path = webapp
 	url = https://github.com/CatalystCollab/catalyst-web-app.git
 [submodule "Backend"]
-	path = Backend
+	path = backend
 	url = https://github.com/CatalystCollab/catalyst-backend.git
 [submodule "wiki"]
 	path = wiki
