@@ -4,3 +4,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/CatalystCollab/catalyst-backend.git
+[submodule "wiki"]
+	path = wiki
+	url = https://Github.com/CatalystCollab/catalyst-beta.wiki.git
